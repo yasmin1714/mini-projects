@@ -12,6 +12,7 @@ Here is a list of the mini-projects included in this repository:
 | Project Name       | Description                                                | Tech Stack            |
 |--------------------|------------------------------------------------------------|-----------------------|
 | **Progress Steps** | A dynamic step tracker built with HTML, CSS, and JS.       | HTML, CSS, JavaScript |
+| **Rotating Navigation** | An interactive navigation menu with dynamic rotation effects, built using modern web technologies. | HTML, CSS, JavaScript |
 
 
 
